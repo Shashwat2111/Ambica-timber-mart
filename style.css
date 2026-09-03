@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main_title_h1 {
+    color: black;
+    display: inline;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+#logo_image{
+    vertical-align: middle;
+    border: 3px solid black;
+}
+#first_div{
+    margin-left: 35%;
+}
+
