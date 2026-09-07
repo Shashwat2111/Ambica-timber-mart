@@ -15,4 +15,13 @@ body {
 #first_div{
     margin-left: 35%;
 }
+#call{
+    margin-left: 50px;
+}
+#nav_bar_image{
+    vertical-align: middle;
+    padding-top: 10px;
+    height: 20px;
+    width: 20px;
+}
 
