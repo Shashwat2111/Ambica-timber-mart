@@ -16,9 +16,7 @@ body {
     margin-left: 35%;
     padding-bottom: 10px;
 }
-#call{
-    margin-left: 50px;
-}
+
 #nav_bar_image{
     vertical-align: middle;
     padding-top: 10px;
@@ -29,13 +27,13 @@ a{
     color: inherit;
     text-decoration: none;
 }
-#first_img{
-    width: 200px;
-    height: 200px;
-}
-
-#first_product{
+.product_div{
     padding: 2px;
     border: 2px solid black;
     display: inline-block;
+}
+
+.product_img{
+    width: 200px;
+    height: 200px;
 }
