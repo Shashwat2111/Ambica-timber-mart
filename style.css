@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 #main_title_h1 {
@@ -29,8 +30,9 @@ a{
 }
 .product_div{
     padding: 2px;
-    border: 2px solid black;
+    border: 2px solid white;
     display: inline-block;
+    color: white;
 }
 
 .product_img{
